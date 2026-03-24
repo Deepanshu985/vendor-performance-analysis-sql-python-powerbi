@@ -1,7 +1,7 @@
 
-# 🧾 Vendor Performance Analysis – Retail Inventory & Sales
+# Vendor Performance Analysis – Retail Inventory & Sales
 
-_Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
+Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI.
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
@@ -39,7 +39,6 @@ Effective inventory and sales management are critical in the retail sector. This
 vendor-performance-analysis/
 │
 ├── README.md
-├── .gitignore
 ├── Vendor Performance Analysis Final Report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
@@ -59,7 +58,7 @@ vendor-performance-analysis/
   - Profit Margin ≤ 0
   - Sales Quantity = 0
 - Created summary tables with vendor-level metrics
-- Converted data types, handled outliers, merged lookup tables
+- Converted data types, handled missing values, merged lookup tables
 
 ---
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
