@@ -93,9 +93,9 @@ vendor-performance-analysis/
   - Inventory Turnover
 
 
-![Vendor Performance Dashboard](images/Dashboard_1.png)
+![Vendor Performance Dashboard](Images/Dashboard_1.png)
 ---
-![Vendor Performance Dashboard](images/Dashboard_2.png)
+![Vendor Performance Dashboard](Images/Dashboard_2.png)
 
 ---
 <h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
